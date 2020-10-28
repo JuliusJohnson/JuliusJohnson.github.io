@@ -24,7 +24,7 @@ author:
 url: "https://juliusjohnson.github.io/" #
 baseurl:
 permalink: /:title/
-google_analytics:  UA-68195341-1 # leave it blank if not wish
+google_analytics: UA-68195341-1 # leave it blank if not wish
 fb_appid:
 
 # Collection setting
