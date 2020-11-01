@@ -10,7 +10,7 @@ Julius is a data analyst who works with people to help them ask better questions
 
 Julius recieved his Masters of Science in Marketing from Georgia State University's Robinson College of Business. Currently he has had a passion for analytics egineering and python which prompted him to start this site. 
 
-**Best way to Contact Julius Johnson**
+**Best way to Contact Julius Johnson:**
 
 - {{ site.author.email }}
 <!--- github.com/{{ site.author.github }}-->
