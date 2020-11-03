@@ -2,7 +2,7 @@
 title: Julius J
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: Julius is a data analyst who works with people to help them ask better questions to solve bigger problems.
 comments: false
 ---
 

@@ -2,3 +2,8 @@
 ---
 
 @import "main";
+
+img[src*='#center'] { 
+    display: block;
+    margin: auto;
+}
