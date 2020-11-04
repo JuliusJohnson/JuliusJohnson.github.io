@@ -12,7 +12,7 @@ mode: light # default theme "dark" | "light"
 author:
   name: Julius J. # author name
   bio: >- # tell to the world
-    Julius loves analytics, data stories, and has new found appreciation for programming. Learn more about  <a href="https://www.linkedin.com/in/juliusjohnson/" target="_blank">Julius' professional expirence.</a>
+    Julius loves analytics, data stories, and has a new found appreciation for programming. Learn more about  <a href="https://www.linkedin.com/in/juliusjohnson/" target="_blank">Julius' professional expirence.</a>
   username: username # general username
   github: https://github.com/JuliusJohnson # github username
   #twitter: twitter_username # twitter username

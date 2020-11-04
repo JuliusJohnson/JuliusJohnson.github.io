@@ -1,11 +1,11 @@
 ---
-title: My Journey creating a data pipeline
+title: My Journey Creating A Data Pipeline
 date: 2020-11-03 12:00:00 -05:00
 tags: [python, Google Big Query, Google Data Studio, BeautifulSoup4]
 description: A walkthough of a data pipeline I created for LinkedIn
 ---
 
-# My Journey creating a data pipeline
+# My Journey Creating A Data Pipeline
 
 ### Step 1: LinkedIn
 
