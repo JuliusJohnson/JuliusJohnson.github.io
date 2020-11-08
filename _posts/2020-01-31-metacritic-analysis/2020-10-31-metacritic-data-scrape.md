@@ -95,23 +95,4 @@ How I augmented the data can be found in the code below:
 Most of the cleaning was creating consistent data types within dimensions and metrics.
 
 
-```
-df = pd.read_csv('../metacritic_output.csv')
-df['userscore'] = df['userscore'].replace('tbd',np.nan) #cleaning output metacritic output
-df['no_userreviews'] = df['no_userreviews'].replace('No Data', np.nan) #creates a new columns for the number of user reviews and converts data to a useable format
-df['userscore'] = df['userscore'].astype(str).astype(float)  # A little unintuitive; the userscore field can't be directly changed to a float, so must take advantage of Python's fuzzy typing to convert from object to float
-df['userscore'] = df['userscore'] * 10 # standardizing userscores with critic scores
-df['no_userreviews'] = df['no_userreviews'].astype(str).astype(float)
-```
-
-
-
-```
-df.drop(["Unnamed: 0", "Unnamed: 0.1"], axis=1, inplace=True) #delete extra generated columns
-```
-
-
-
-```
-df['date'] = pd.to_datetime(df['date'], format='%B %d, %Y') #Convert date to something we can use programmatically
-```
+<div style="text-align:center"><img src="/assets/img/metacritic-code-dtypes.png" /></div>
